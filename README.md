@@ -7,6 +7,7 @@ git add 冲突文件
 git rebase –continue
 git push
 
+2222 make confick
 2.
 
 
