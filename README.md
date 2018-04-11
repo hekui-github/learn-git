@@ -7,13 +7,10 @@ git add 冲突文件
 git rebase –continue
 git push
 
-gi makejjjjjjjajldjfi
-
-git ggggggg
-2222 make confick
-
-git hhhhh
 
 2.
 
 
+这是一个新分支
+
+提交点新内容
