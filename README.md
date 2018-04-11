@@ -7,6 +7,8 @@ git add 冲突文件
 git rebase –continue
 git push
 
+gi makejjjjjjjajldjfi
+
 2.
 
 
