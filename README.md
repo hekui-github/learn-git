@@ -10,6 +10,9 @@ git push
 gi makejjjjjjjajldjfi
 
 git ggggggg
+2222 make confick
+
+git hhhhh
 
 2.
 
